@@ -2,7 +2,7 @@
 
 ## 📚 Education
 
-[2023 - <b>currently</b>] Computer Science - University of Trento<br>
+[2023 - <b>currently</b>] Artificial Intelligence Systems - University of Trento<br>
 [2020 - 2023] Computer, Communications and Electronics Engineering - University of Trento
 
 ## 💻 Tech Stack
