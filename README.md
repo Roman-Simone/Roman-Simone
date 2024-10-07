@@ -45,8 +45,8 @@
 
 <p align="center">
   <a href="https://github.com/Roman-Simone/">
-    <img src="https://streak-stats.demolab.com?user=Roman-Simone&theme=dark" alt="Top Languages"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Roman-Simone&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radious=10" alt="Top Languages"/>
+    <img src="https://streak-stats.demolab.com?user=Roman-Simone&theme=dark" alt="Top Languages"/><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Roman-Simone&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radious=10" alt="Top Languages"/><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Simone&layout=compact" alt="Top Languages"/>
   </a>
 </p>
