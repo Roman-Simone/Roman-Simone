@@ -30,14 +30,17 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6.svg?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br>
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/Roman-Simone/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Simone&layout=compact" alt="Top Languages"/>
-  </a>
-</p>
 
 
 
