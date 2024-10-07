@@ -34,11 +34,23 @@
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=white" alt="Linux"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6.svg?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazon&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6.svg?style=flat&logo=microsoft&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br>
 </p>
+
+
+
+
+<p align="center">
+  <a href="https://github.com/Roman-Simone/">
+    <img src="https://streak-stats.demolab.com?user=Roman-Simone&theme=dark" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Roman-Simone&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radious=10" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Simone&layout=compact" alt="Top Languages"/>
+  </a>
+</p>
+
 
 
 
