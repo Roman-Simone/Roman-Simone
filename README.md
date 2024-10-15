@@ -52,6 +52,11 @@
   </a>
 </p>
 
+## 🏆 Leetcode Stats
+<p align="center">
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/simoneroman)
+</p>
+
 
 
 
