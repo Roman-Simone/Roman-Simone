@@ -54,7 +54,7 @@
 
 ## 🏆 Leetcode Stats
 <p align="center">
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/simoneroman)
+  <img src="https://leetcard.jacoblin.cool/simoneroman" alt="Top Languages"/>
 </p>
 
 
