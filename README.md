@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Azure-0089D6.svg?style=flat&logo=microsoft&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF.svg?style=flat&logo=YOLO&logoColor=black" alt="YOLO"/>
+  <img src="https://tinyurl.com/cvyolo11" alt="Yolo"/>
 </p>
 
 
